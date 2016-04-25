@@ -55,7 +55,8 @@
       "angular": "github:angular/bower-angular@^1.5.3",
       "angular-toastr": "github:Foxandxss/angular-toastr@^1.7.0",
       "angular-ui-router": "github:angular-ui/ui-router@^0.2.18",
-      "bootstrap": "github:twbs/bootstrap@^3.3.6"
+      "bootstrap": "github:twbs/bootstrap@^3.3.6",
+      "scss": "github:mobilexag/plugin-sass@0.4.1"
     },
     "devDependencies": {
       "angular-mocks": "github:angular/bower-angular-mocks@^1.5.3",
